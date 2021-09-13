@@ -1,5 +1,5 @@
 [package]
-name = "hello_remote_world"
+name = "echo"
 version = "0.1.0"
 authors = ["VS Code <vscode@microsoft.com>"]
 
