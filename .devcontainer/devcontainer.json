@@ -33,5 +33,7 @@
 	// "postCreateCommand": "rustc --version",
 
 	// Comment out to run as root instead.
-	"remoteUser": "vscode"
+	"remoteUser": "vscode",
+
+	"onCreateCommand": "./onCreateCommand.sh"
 }
