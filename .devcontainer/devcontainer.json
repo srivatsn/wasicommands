@@ -35,5 +35,5 @@
 	// Comment out to run as root instead.
 	"remoteUser": "vscode",
 
-	"onCreateCommand": "./onCreateCommand.sh"
+	"onCreateCommand": "./.devcontainer/onCreateCommand.sh"
 }
